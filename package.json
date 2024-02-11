@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "argon2": "^0.40.1",
+    "bun": "^1.0.33",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "react-router-dom": "^6.22.3",
+    "sequelize": "^6.37.1"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.6"
+  }
+}
